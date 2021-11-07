@@ -1,4 +1,4 @@
-module minio
+module github.com/putao520/minio-dapr
 
 go 1.17
 
